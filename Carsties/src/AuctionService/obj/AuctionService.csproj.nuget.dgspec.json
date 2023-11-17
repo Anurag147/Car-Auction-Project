@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Anurag\\Study\\Car-Auction-Project\\Carsties\\src\\auctionservice\\AuctionService.csproj": {}
+    "C:\\Anurag\\Study\\Car-Auction-Project\\Carsties\\src\\AuctionService\\AuctionService.csproj": {}
   },
   "projects": {
-    "C:\\Anurag\\Study\\Car-Auction-Project\\Carsties\\src\\auctionservice\\AuctionService.csproj": {
+    "C:\\Anurag\\Study\\Car-Auction-Project\\Carsties\\src\\AuctionService\\AuctionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Anurag\\Study\\Car-Auction-Project\\Carsties\\src\\auctionservice\\AuctionService.csproj",
+        "projectUniqueName": "C:\\Anurag\\Study\\Car-Auction-Project\\Carsties\\src\\AuctionService\\AuctionService.csproj",
         "projectName": "AuctionService",
-        "projectPath": "C:\\Anurag\\Study\\Car-Auction-Project\\Carsties\\src\\auctionservice\\AuctionService.csproj",
+        "projectPath": "C:\\Anurag\\Study\\Car-Auction-Project\\Carsties\\src\\AuctionService\\AuctionService.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Anurag\\Study\\Car-Auction-Project\\Carsties\\src\\auctionservice\\obj\\",
+        "outputPath": "C:\\Anurag\\Study\\Car-Auction-Project\\Carsties\\src\\AuctionService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,16 +40,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,15 +51,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
