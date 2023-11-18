@@ -75,3 +75,10 @@ C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\obj\Debug\net
 C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\obj\Debug\net7.0\AuctionServiceNew.pdb
 C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\obj\Debug\net7.0\AuctionServiceNew.genruntimeconfig.cache
 C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\obj\Debug\net7.0\ref\AuctionServiceNew.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\AutoMapper.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Humanizer.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\System.CodeDom.dll
