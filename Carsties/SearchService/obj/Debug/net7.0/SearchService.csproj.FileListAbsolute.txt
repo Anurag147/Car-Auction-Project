@@ -52,3 +52,13 @@ C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\Data
 C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
 C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\Polly.dll
 C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\Polly.Extensions.Http.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\MassTransit.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\Contracts.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\SearchService\bin\Debug\net7.0\Contracts.pdb
