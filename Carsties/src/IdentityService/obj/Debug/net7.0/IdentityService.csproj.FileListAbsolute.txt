@@ -69,3 +69,4 @@ C:\Anurag\Study\Car-Auction-Project\Carsties\src\IdentityService\bin\Debug\net7.
 C:\Anurag\Study\Car-Auction-Project\Carsties\src\IdentityService\bin\Debug\net7.0\System.CodeDom.dll
 C:\Anurag\Study\Car-Auction-Project\Carsties\src\IdentityService\bin\Debug\net7.0\Npgsql.dll
 C:\Anurag\Study\Car-Auction-Project\Carsties\src\IdentityService\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\identityservice\bin\Debug\net7.0\keys\is-signing-key-A3817021925B1E81C3EE21EA4C4A5E1A.json

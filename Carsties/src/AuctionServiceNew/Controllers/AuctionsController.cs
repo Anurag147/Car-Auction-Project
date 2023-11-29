@@ -9,6 +9,7 @@ using Contracts;
 
 using MassTransit;
 
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -69,12 +70,13 @@ public class AuctionsController : ControllerBase
         return _mapper.Map<AuctionDto>(auction);
     }
 
+    [Authorize]
     [HttpPost]
     public async Task<ActionResult<AuctionDto>> CreateAuction(CreateAuctionDto auctionDto)
     {
         var auction = _mapper.Map<Auction>(auctionDto);
         // TODO: add current user as seller
-        auction.Seller = "test";
+        auction.Seller = User.Identity.Name;
 
         _context.Auctions.Add(auction);
 
@@ -97,6 +99,8 @@ public class AuctionsController : ControllerBase
 
         if (auction == null) return NotFound();
 
+        if (auction.Seller != User.Identity.Name) return Forbid();
+
         // TODO: check seller == username
 
         auction.Item.Make = updateAuctionDto.Make ?? auction.Item.Make;
@@ -113,13 +117,15 @@ public class AuctionsController : ControllerBase
 
         return BadRequest("Problem saving changes");
     }
-
+    [Authorize]
     [HttpDelete("{id}")]
     public async Task<ActionResult> DeleteAuction(Guid id)
     {
+
         var auction = await _context.Auctions.FindAsync(id);
 
         if (auction == null) return NotFound();
+        if (auction.Seller != User.Identity.Name) return Forbid();
 
         // TODO: check seller == username
 

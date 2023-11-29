@@ -92,3 +92,10 @@ C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net
 C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\RabbitMQ.Client.dll
 C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Contracts.dll
 C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Contracts.pdb
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Anurag\Study\Car-Auction-Project\Carsties\src\AuctionServiceNew\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
