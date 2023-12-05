@@ -5,3 +5,5 @@ API created using C#
 Backend database inludes Postgre, MongoDB
 Microservices communication using Gateway, Rabbitmq
 Identity service using Duende Identity Server
+
+Front end using Next JS Server Side Rendering 
